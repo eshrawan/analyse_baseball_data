@@ -193,7 +193,7 @@ def compute_top_stats_year(info, formula, numplayers, year):
 
 ##
 ## Part 2: Functions to compute top batting statistics by career
-##
+## author: @eshrawan
 
 def aggregate_by_player_id(statistics, playerid, fields):
     """
